@@ -1,6 +1,7 @@
 # code-samples
-#####Author: Matthew Curtis Durlin
-#####Purpose: To demonstrate capability and practice new technologies
+Author: Matthew Curtis Durlin
+
+Purpose: To demonstrate capability and practice new technologies
 
 ## Running the build
 

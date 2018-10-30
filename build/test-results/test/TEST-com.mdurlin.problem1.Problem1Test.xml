@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mdurlin.problem1.Problem1Test" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-10-30T11:17:50" hostname="Build070813" time="0.432">
+  <properties/>
+  <testcase name="unorderedComplexArray" classname="com.mdurlin.problem1.Problem1Test" time="0.267"/>
+  <testcase name="oneArrayItem" classname="com.mdurlin.problem1.Problem1Test" time="0.013"/>
+  <testcase name="unorderedSmallArray" classname="com.mdurlin.problem1.Problem1Test" time="0.039"/>
+  <testcase name="perfEdgeTest" classname="com.mdurlin.problem1.Problem1Test" time="0.068"/>
+  <testcase name="orderedArray" classname="com.mdurlin.problem1.Problem1Test" time="0.011"/>
+  <system-out><![CDATA[0
+]]></system-out>
+  <system-err><![CDATA[Oct 30, 2018 7:17:50 AM java.util.logging.LogManager$RootLogger log
+INFO: Test unorderedComplexArray succeeded, spent 94261710000 microseconds
+Oct 30, 2018 7:17:50 AM java.util.logging.LogManager$RootLogger log
+INFO: Test unorderedComplexArray finished, spent 94261710000 microseconds
+Oct 30, 2018 7:17:50 AM java.util.logging.LogManager$RootLogger log
+INFO: Test oneArrayItem succeeded, spent 189914000 microseconds
+Oct 30, 2018 7:17:50 AM java.util.logging.LogManager$RootLogger log
+INFO: Test oneArrayItem finished, spent 189914000 microseconds
+Oct 30, 2018 7:17:50 AM java.util.logging.LogManager$RootLogger log
+INFO: Test unorderedSmallArray succeeded, spent 211986000 microseconds
+Oct 30, 2018 7:17:50 AM java.util.logging.LogManager$RootLogger log
+INFO: Test unorderedSmallArray finished, spent 211986000 microseconds
+Oct 30, 2018 7:17:50 AM java.util.logging.LogManager$RootLogger log
+INFO: Test perfEdgeTest succeeded, spent 60220834000 microseconds
+Oct 30, 2018 7:17:50 AM java.util.logging.LogManager$RootLogger log
+INFO: Test perfEdgeTest finished, spent 60220834000 microseconds
+Oct 30, 2018 7:17:50 AM java.util.logging.LogManager$RootLogger log
+INFO: Test orderedArray succeeded, spent 786349000 microseconds
+Oct 30, 2018 7:17:50 AM java.util.logging.LogManager$RootLogger log
+INFO: Test orderedArray finished, spent 786349000 microseconds
+]]></system-err>
+</testsuite>
