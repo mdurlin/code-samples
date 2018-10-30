@@ -38,4 +38,12 @@ public class Problem1Test {
 		assertEquals(1, countAllOn);
 	}
 	
+	@Test
+	public void unorderedComplexArray() {
+		Problem1 problem1 = new Problem1();
+		int[] myArray = {2, 1, 3, 5, 4}; // 2, 1 (1), 3 (2), 5, 4 (3)
+		int countAllOn = problem1.findCountAllOn(myArray);
+		assertEquals(3, countAllOn);
+	}
+	
 }
