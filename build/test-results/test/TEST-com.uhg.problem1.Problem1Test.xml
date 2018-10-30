@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.uhg.problem1.Problem1Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-10-30T01:00:33" hostname="Build070813" time="0.143">
-  <properties/>
-  <testcase name="oneArrayItem" classname="com.uhg.problem1.Problem1Test" time="0.141"/>
-  <testcase name="unorderedSmallArray" classname="com.uhg.problem1.Problem1Test" time="0.001"/>
-  <testcase name="orderedArray" classname="com.uhg.problem1.Problem1Test" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
